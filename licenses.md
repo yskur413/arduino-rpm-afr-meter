@@ -1,0 +1,1 @@
+All hardware schematics and other details related to hardware are licensed under the CERN-OHL-P-2.0 (CERM Open Hardware License Version 2 Permissive) license, all other work including but not limited to code and documentation is under the MIT License.
